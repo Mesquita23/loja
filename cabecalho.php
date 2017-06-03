@@ -22,7 +22,7 @@
            		</li>
                         
                         <li>
-           			<a href="altera.php">altera</a>
+           			<i class="fa fa-facebook-official"></i>
            		</li>
            		
            	</ul>
