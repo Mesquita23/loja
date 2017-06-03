@@ -5,5 +5,7 @@
                  <button class="" type="button">Click Me!</button> 
                             
             </form>
+			
+			<i class="fa fa-facebook-official"></i>
             
 <?php require_once("rodape.php");?>
